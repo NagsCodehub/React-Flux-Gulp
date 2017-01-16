@@ -1,5 +1,6 @@
 {
-   "ecmaFeatures": {
+  "root": true,
+  "ecmaFeatures": {
     "jsx": true
   },
   "env": {

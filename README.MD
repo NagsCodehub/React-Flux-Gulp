@@ -1,3 +1,5 @@
+This App targets ES5
+
 NODE environment configuration
 
 a)Download node from nodejs.org
@@ -23,6 +25,13 @@ d) install browserfy dependencies its middleware --> npm install  --save browser
 
    browserify --> module bundler for JS
    reactify --> compile jsx to js
-   vinyl-sourec-stream --> use conventional text streams with gulp
+   vinyl-sourec-stream --> use conventional text streams with gulpe
+e) npm install --save bootstrap jquery gulp-concat
 
+             bootstrap --> css framework
+              jquery -->js framework
+              gulp-concat --> concat css files
+f) npm install --save gulp-eslint
+           gulp-eslint --> linting js
 
+g)npm install react react-router flux

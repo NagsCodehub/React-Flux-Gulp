@@ -8,9 +8,9 @@
   },
   "author": "Nag Karumanchi",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {   
     "bootstrap": "^3.3.7",
-    "browserify": "^13.3.0",
+    "browserify": "^13.3.0",    
     "flux": "^2.0.3",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
