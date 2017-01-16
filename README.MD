@@ -34,4 +34,11 @@ e) npm install --save bootstrap jquery gulp-concat
 f) npm install --save gulp-eslint
            gulp-eslint --> linting js
 
+           there are couple of dependencies for eslint found out after errors do the below :
+
+           npm install --save eslint-plugin-react
+           npm install --save babel-eslint
+
+
+
 g)npm install react react-router flux
